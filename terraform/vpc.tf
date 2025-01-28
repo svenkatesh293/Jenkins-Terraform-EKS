@@ -1,4 +1,4 @@
-module "vpc_san" {
+module "vpc_san1" {
   source  = "terraform-aws-modules/vpc/aws"
   version = "~> 4.0"
 
